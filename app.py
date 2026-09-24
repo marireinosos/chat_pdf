@@ -303,4 +303,4 @@ if st.session_state.mensajes:
     st.divider()
     if st.button("🗑️ Reiniciar conversación"):
         st.session_state.mensajes = []
-        st.rerun()ra comenzar")
+        st.rerun()
